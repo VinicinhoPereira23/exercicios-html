@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    text-align: center;
+    width: auto;
+}
+
+.image{
+    border-radius: 10%;
+    border-color: red;
+    text-align: center;
+}
+
+.texto1{
+    text-align:"right";
+    justify-content: right;
+}
+
+.lista{
+    text-align: left;
+    justify-content: left;
+
+}
+
