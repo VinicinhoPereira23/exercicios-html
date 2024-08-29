@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+h1{
+    text-align:center;
+}
+
+
+
+img{
+    display: flex;
+    margin: auto;
+    width: 400px;
+    height: 300px;
+    border-radius: 15px;
+    align-items: center;
+    border:15px solid red;
+    border-radius: 15px;
+
+}
+
+p{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 15px;
+}
+
+.tabela{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.a{
+    color: aqua;
+    font-size: 50px;
+    margin: 20px 20px;
+    text-decoration: none;
+    border-radius: 15px;
+    margin: auto;
+}
